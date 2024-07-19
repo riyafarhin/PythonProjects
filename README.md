@@ -21,5 +21,15 @@ Objectives:
 3. Password Generator
 
 Objectives:
-- randomize letters, symbols, and numbers
-- create a password using the randomized variables with the number of characters the user inputs
+- Randomize letters, symbols, and numbers
+- Create a password using the randomized variables with the number of characters the user inputs
+
+4. FizzBuzz Game
+
+Objectives:
+- Write a program that automatically prints the solution to the FizzBuzz game.
+- The rules of the FizzBuzz game are as follows:
+    The program should print each number from 1 to 100 in turn, including the number 100.
+    When a number is divisible by 3, the program should print "Fizz" instead of the number.
+    When a number is divisible by 5, the program should print "Buzz" instead of the number.
+    If the number is divisible by both 3 and 5 (e.g., 15), the program should print "FizzBuzz" instead of the number.
